@@ -1,10 +1,9 @@
 ## Oi! Sou o Bruno! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="left">
+<img src="https://www.citypng.com/public/uploads/preview/lovable-hello-kitty-holding-a-teddy-bear-png-img-735811696682659nykumkwofa.png?v=2025071302" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="left">
 
 <p align="center"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Professor | Engenheiro | 34 anos |Pós graduado | Desenvolvedor por paixão
 </p>
 
 <p align="center">
@@ -12,8 +11,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perabru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" alt="Github Stats"/>
 </p>
 
-<br><p align="center" margin-right="10px">
-  <!-- ferramentas, eclipse, mongo compass etcetc -->
+<br><br><br><p align="center"">
+
 </p>
 
 <p align="center">
