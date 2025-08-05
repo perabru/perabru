@@ -9,7 +9,7 @@
 
 <p align="center">
   <strong>Linguagens</strong><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perabru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=550" alt="Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perabru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" alt="Github Stats"/>
 </p>
 
 <br><p align="center" margin-right="10px">
