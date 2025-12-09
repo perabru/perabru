@@ -22,6 +22,20 @@
       alt="LinkedIn"
     />
   </a>
+
+  <a href="http://lattes.cnpq.br/4209017189513990" title="Currículo Lattes" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-Lattes-3067C7?style=flat-square&labelColor=3067C7&logo=readthedocs&logoColor=white" 
+      alt="Currículo Lattes"
+    />
+  </a>
+
+  <a href="https://www.youtube.com/@brunomichel5137" title="YouTube" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" 
+      alt="YouTube"
+    />
+  </a>
 </p>
 
 
