@@ -1,6 +1,6 @@
 ## Oi! Sou o Bruno! 👋
 
-<img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="gif gengar" min-width="300px" max-width="300px" width="300px" align="left">
+<img src="https://i.redd.it/4y9r0e5nwvte1.gif" alt="gif gengar" min-width="300px" max-width="300px" width="300px" align="left">
 
 <p align="center"> 
   Professor | Engenheiro | 34 anos | Pós graduado | Desenvolvedor por paixão
