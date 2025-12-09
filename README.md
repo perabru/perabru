@@ -8,7 +8,12 @@
 
 <p align="center">
   <strong>Linguagens</strong><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perabru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" alt="Github Stats"/>
+ <img 
+  align="center" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=perabru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" 
+  alt="Linguagens mais usadas no GitHub"
+/>
+
 </p>
 <p align="center">
   <strong>Contato<strong><br>
