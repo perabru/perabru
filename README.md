@@ -7,19 +7,23 @@
 </p>
 
 <p align="center">
-  <strong>Linguagens</strong><br><br>
- <img 
-  align="center" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=perabru&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=450" 
-  alt="Linguagens mais usadas no GitHub"
-/>
+  <strong>Contato</strong><br>
 
-</p>
-<p align="center">
-  <strong>Contato<strong><br>
   <a href="mailto:brunomichel00@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+    <img 
+      src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" 
+      alt="Gmail"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/brunopera00/" title="LinkedIn" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
 </p>
+
 
 <!--
 **perabru/perabru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
