@@ -3,7 +3,7 @@
 <img src="https://i.redd.it/4y9r0e5nwvte1.gif" alt="gif gengar" min-width="300px" max-width="300px" width="300px" align="left">
 
 <p align="center"> 
-  Professor | Engenheiro | 34 anos | Pós graduado | Desenvolvedor por paixão
+  Professor | Engenheiro | 35 anos | Pós graduado | Desenvolvedor por paixão
 </p>
 
 <p align="center">
