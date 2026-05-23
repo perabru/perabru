@@ -1,55 +1,37 @@
-## Oi! Sou o Bruno! 👋
+## Oi! Eu sou o Bruno! 👋
 
-<img src="https://i.redd.it/4y9r0e5nwvte1.gif" alt="gif gengar" min-width="300px" max-width="300px" width="300px" align="left">
+<img 
+  src="https://i.redd.it/4y9r0e5nwvte1.gif" 
+  alt="Gif do Gengar" 
+  width="260px" 
+  align="right"
+/>
 
-<p align="center"> 
-  Professor | Engenheiro | 35 anos | Pós graduado | Desenvolvedor por paixão
-</p>
+### Professor • Engenheiro • Matemático • Desenvolvedor por paixão
 
-<p align="center">
-  <strong>Contato</strong><br>
+Sou professor, engenheiro da computação, matemático e apaixonado por tecnologia.  
+Gosto de criar projetos que misturam educação, desenvolvimento de software, inteligência artificial, banco de dados, Android, IoT e automação.
 
-  <a href="mailto:brunomichel00@gmail.com" title="Gmail">
-    <img 
-      src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" 
-      alt="Gmail"
-    />
-  </a>
+Atualmente desenvolvo projetos acadêmicos, aplicativos, sistemas educacionais e soluções práticas usando tecnologia.
 
-  <a href="https://www.linkedin.com/in/brunopera00/" title="LinkedIn" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
+<br>
 
-  <a href="http://lattes.cnpq.br/4209017189513990" title="Currículo Lattes" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-Lattes-3067C7?style=flat-square&labelColor=3067C7&logo=readthedocs&logoColor=white" 
-      alt="Currículo Lattes"
-    />
-  </a>
+### Contato
 
-  <a href="https://www.youtube.com/@brunomichel5137" title="YouTube" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" 
-      alt="YouTube"
-    />
-  </a>
-</p>
+<a href="mailto:brunomichel00@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<a href="https://www.linkedin.com/in/brunopera00/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<!--
-**perabru/perabru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="http://lattes.cnpq.br/4209017189513990">
+  <img src="https://img.shields.io/badge/Lattes-3067C7?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.youtube.com/@brunomichel5137">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="right"/>
